@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>jackhammer</groupId>
+  <artifactId>jackhammer</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20130903.171859</timestamp>
+      <buildNumber>2</buildNumber>
+    </snapshot>
+    <lastUpdated>20130903171859</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.0.1-20130903.171859-2</value>
+        <updated>20130903171859</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
